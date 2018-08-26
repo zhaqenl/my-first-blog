@@ -7,6 +7,9 @@ body {
     background-color: black;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -16,6 +19,7 @@ body {
 }
 
 .content {
+    padding-top: 10%;
     margin-left: 40px;
 }
 
