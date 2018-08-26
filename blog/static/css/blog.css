@@ -5,6 +5,8 @@ body {
 
 .page-header {
     background-color: #222222;
+    border-bottom:0px;
+    text-align: center;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
     position: fixed;
@@ -19,8 +21,8 @@ body {
 }
 
 .content {
-    padding-top: 10%;
-    margin-left: 40px;
+    padding-top: 11%;
+    padding-left: 18%;
 }
 
 h1, h2, h3, h4 {
